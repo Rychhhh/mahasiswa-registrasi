@@ -1,0 +1,12 @@
+
+- crud java sql
+
+1. buat project java ( non source code )
+2. buat design GUI
+3. jPanel namakan main
+4. setelah itu actionlistener bagian button save
+5. downlaod 2 package ( mysql connector, rs2xml ) 
+6. buat connection dan rst 
+7. fungsi connect();
+
+16:33
